@@ -1,0 +1,5 @@
+ContentDocumentLink cdl = new ContentDocumentLink();
+cdl.ContentDocumentId = '0691w000001KnhwAAC';
+cdl.LinkedEntityId = '8101w000002Wx44AAC';
+cdl.ShareType = 'V';
+insert cdl;
